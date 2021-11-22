@@ -1,0 +1,24 @@
+body{
+    background-color:cornflowerblue;
+  }
+  .heading{
+  font-size: 64px;
+  font-family:  'Oswad', sans-serif;
+  width: 100%;
+  background-color: darkred;
+  color: lightblue;
+  }
+  .name_of_objects{
+   font-size: 50px;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+   color:limegreen;
+  }
+  label{
+   font-size:30px;
+   color:gold;
+  }
+  #result_object_name,#result_object_accuracy{
+  font-size:45;
+  color: chocolate;
+  }
+  
